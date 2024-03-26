@@ -1,7 +1,7 @@
 import google.generativeai as genai
 from prediction import personality_traits
 
-genai.configure(api_key="")
+genai.configure(api_key="AIzaSyCdjmY7jiH7U_Z7JBfgu-omA2rd3S7sG2g")
 # proceed here for api key  https://makersuite.google.com/app/apikey
 
 generation_config = {
