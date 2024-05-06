@@ -1,5 +1,5 @@
 Bachelor in Technology
-Masters
+Master
 PhD
 Degree
 Diploma
@@ -14,8 +14,4 @@ Secondary Education
 Vocational Training
 GED (General Educational Development)
 Bachelor of Technology - BTech
-Computer Science Engineering
-Electronics & Communication Engineering
-Electrical & Electronics Engineering
-Mechanical Engineering
-Information & Technology
+ Computer Science Engineering

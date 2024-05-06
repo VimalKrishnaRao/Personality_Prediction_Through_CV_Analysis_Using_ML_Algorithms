@@ -48,3 +48,4 @@ data_with_traits = pd.concat([data, personality_traits], axis=1)
 # Save the updated data to a new CSV file
 output_file_path = 'extracted_detailsWith_traits.csv'
 data_with_traits.to_csv(output_file_path, index=False)
+

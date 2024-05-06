@@ -1,7 +1,6 @@
 Python
 Java
 C++
-C
 Machine Learning
 Data Analysis
 SQL
@@ -74,5 +73,4 @@ Managerial Accounting
 Management Accounting
 Accounting Software
 Tax Accounting
-Group Management
-Team Building
+
